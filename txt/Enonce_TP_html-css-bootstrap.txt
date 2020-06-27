@@ -1,0 +1,36 @@
+TP HTML
+
+Enoncé : Veuillez concevoir le site-vitrine du musée de la photographie d'une petite bourgade de bord de mer
+
+Structure du Site :
+
+Chaque page est caracterisee par une bar de navigation et un bas de page
+
+Le client vous laisse le choix du code couleur et du template a choisir.
+
+Vous êtes libre de choisir un Thème Bootstrap (préférence bien sûr pour Bootstrap 4)que vous réadapteriez par la suite selon les besoins du client
+Pour le texte, vous pouvez utiliser le textes "lorem ipsum ..." comme presentation  
+
+1 page d'accueil : - un caroussel photo JS
+		   - un grid-photos, 1 photo avec 1 titre et une petite description (possibilite d'afficher la photo en grand)
+		   - des boutons nous redirigeant vers le formulaire de contact, vers la page tarif
+
+1 page "presentation du musee" : - banniere de presentation en haut (avec photo) avec titre de page 
+				 - texte de presentation du musee + photos
+
+1 page tarif : - banniere de presentation en haut (avec photo) avec titre de page 
+	       - presentation des tarifs selon plusieurs criteres (creation d'un tableau)
+	       - 1 bouton nous redirigeant vers la page contact signet formulaire
+
+1 page contact (reservation) : - un formulaire contact nous permettant d'envoyer un mail en tant qu'utilisateur
+			       - adapter le formulaire pour qu on puisse envoyer une reservation selon les criteres indiquees dans la page tarif		
+			      
+
+Fonctionnalites obligatoire en Jquery: - scroll to top
+				       - modal page (bouton qui ouvre une pop up)
+ 				       - hyperliens (factices) vers les reseaux sociaux comme fb, twitter (icons)
+
+
+
+
+
